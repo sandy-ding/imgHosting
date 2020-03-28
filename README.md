@@ -1,2 +1,2 @@
 # imgHosting
-image host for personal blog
+image hosting for personal project
